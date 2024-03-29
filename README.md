@@ -1,2 +1,2 @@
 # gender-bias-text
-Repositorio para el paper "Técnicas de procesamiento de lenguaje natural aplicadas a la detección de sesgos de género en textos legales" submitido a CLEI 2024
+Repositorio para el paper "Detección de sesgo de género en textos legales usando clasificación y LLMs" submitido a CLEI 2024
